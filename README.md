@@ -24,4 +24,6 @@ Desenvolvedor Full Stack e estudante de Sistemas de Informação, focado no dese
 <img src="https://skillicons.dev/icons?i=java" height="45"/>
 <img src="https://skillicons.dev/icons?i=cs" height="45"/>
 <img src="https://skillicons.dev/icons?i=python" height="45"/>
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+<img src="https://skillicons.dev/icons?i=vercel" height="45"/>
 </p>
